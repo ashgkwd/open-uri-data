@@ -1,4 +1,6 @@
-# Open::Uri::Data
+# URI::Data
+
+> Adds support for `data:` URI schemas to Ruby's `open-uri` 🔥
 
 TODO: Delete this and the text below, and describe your gem
 
